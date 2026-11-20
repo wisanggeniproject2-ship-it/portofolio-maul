@@ -69,7 +69,7 @@ export const projects = [
       'Aplikasi web untuk menjalankan usaha laundry. Data pesanan tersimpan di satu tempat sehingga pemilik dapat memantau setiap pesanan dari penerimaan hingga pengambilan.',
     highlights: ['Pengelolaan pesanan', 'Pelacakan status pesanan'],
     tech: ['Laravel', 'PHP', 'MySQL', 'Blade'],
-    thumbnail: 'images/projects/si-laundry.png',
+    thumbnail: 'images/projects/laundry.png',
     github: null,
     demo: null,
   },
